@@ -1,0 +1,15 @@
+{
+  "name": "clipboard-landing-page-master",
+  "version": "1.0.0",
+  "description": "![Design preview for the Clipboard landing page coding challenge](./design/desktop-preview.jpg)",
+  "main": "app.js",
+  "scripts": {
+    "start":"node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chelsi Rawat",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
